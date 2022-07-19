@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = n
-	name = curl -Ls https://raw.githubusercontent.com/lewagon/setup/master/check.rb > _.rb && ruby _.rb && rm _.rb || rm _.rb
+	email = gregoirebazetoux@hotmail.fr
+	name = gregoire bazetoux
