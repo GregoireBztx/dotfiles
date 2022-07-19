@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gregoire.bazetoux@edhec.com
+	email = gregoire.bazetoux@artefact.com
 	name = Gregoire Bazetoux
